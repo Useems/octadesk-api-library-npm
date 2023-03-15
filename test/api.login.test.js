@@ -27,6 +27,7 @@ describe('api.login', () => {
       const octadesk = new Octadesk(baseUrl)
 
       var envelope = {
+        subdomain: config.get("API_SUBDOMAIN"),
         apitoken: config.get("API_TOKEN"),
         username: config.get("API_USERNAME")
       }

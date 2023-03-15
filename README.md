@@ -15,7 +15,7 @@ Use your API Token or your Octadesk credentials.
 const octadeskAPI = require('octadesk-api')
 
 let octadesk = new octadeskAPI('https://api.octadesk.services')
-await octadesk.authenticate({ 'apitoken': 'octa.YOUR_API_TOKEN', 'username': 'A_VALID_USERNAME' })
+await octadesk.authenticate({ 'subdomain': 'YOUR_SUBDOMAIN', 'apitoken': 'octa.YOUR_API_TOKEN', 'username': 'A_VALID_USERNAME' })
 
 /* or */
 
