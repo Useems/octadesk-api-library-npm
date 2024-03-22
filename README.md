@@ -1,11 +1,11 @@
 # octadesk-api
 Node proxy to Octadesk APIs
 
-[![npm version](https://badge.fury.io/js/octadesk-api.svg)](https://badge.fury.io/js/octadesk-api)
+[![npm version](https://badge.fury.io/js/@useems%2Foctadesk-api.svg)](https://badge.fury.io/js/@useems%2Foctadesk-api)
 
 ## Install
 ```
-npm install octadesk-api
+npm install @useems/octadesk-api
 ```
 
 ## Usage
