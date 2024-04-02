@@ -1,5 +1,5 @@
 {
-  "name": "octadesk-api",
+  "name": "@useems/octadesk-api",
   "version": "1.0.1",
   "description": "Node proxy for Octadesk API - https://api.octadesk.services",
   "main": "index.js",
